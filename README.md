@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis | Tableau
-I downloaded the data from Kaggle the data which is of 303 Emloyees Working in a Software Company and as a Data Aalyst I am supposed to analyze this data thoroughly and give to give answers to few important questions.
+I downloaded the data from Kaggle the data which to analyze this data thoroughly and give to give answers to few important questions.
 
 I have loaded this available data into SQL and have performed (Extract/Load/Transform) ELT on data I have extracted answers to few important question which were asked to me (mentioned below) then I have transformed data by altering columns deleting some unwanted columns.
 After deleting unwanted entries:
